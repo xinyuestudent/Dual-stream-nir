@@ -2,7 +2,7 @@
 
 Official modular implementation for **Consistency-Aware Structural Modeling of Time-Series Signals via Learnable Spectral-Image Transform**.
 
-This repository provides a PyTorch implementation of **Learnable Spectral-Image Transform (LSIT)** and a dual-stream classification framework for robust time-series analysis. The code was modularized from `lsit-multimodalv2-normalization-new.ipynb` and supports spectral, audio, ECG, and EEG-style inputs.
+This repository provides a PyTorch implementation of **Learnable Spectral-Image Transform (LSIT)** and a dual-stream classification framework for robust time-series analysis. The code supports spectral, audio, ECG, and EEG-style inputs.
 
 ## Overview
 
