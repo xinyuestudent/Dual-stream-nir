@@ -48,8 +48,8 @@ lsit_multimodal_modules/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git
-cd <your-repository>
+git clone https://github.com/xinyuestudent/Learnable-Spectral-to-Image-Transform.git
+cd Learnable-Spectral-to-Image-Transform
 ```
 
 Create an environment:
